@@ -1,0 +1,46 @@
+﻿number,question,short_question,type
+Q1_1,Age - Slide to your age,age,background
+Q2,Gender,gender,background
+Q3,Ethnicity,ethnicity,backgound
+Q4_1,What sport(s) do you play? - Selected Choice - Soccer,plays_soccer,sport
+Q4_2,What sport(s) do you play? - Selected Choice - Football,plays_football,sport
+Q4_3,What sport(s) do you play? - Selected Choice - Rugby,plays_rugby,sport
+Q4_4,What sport(s) do you play? - Selected Choice - Baseball,plays_baseball,sport
+Q4_5,What sport(s) do you play? - Selected Choice - Basketball,plays_basketball,sport
+Q4_6,What sport(s) do you play? - Selected Choice - Track,runs_track,sport
+Q4_7,What sport(s) do you play? - Selected Choice - Swimming,plays_swimming,sport
+Q4_8,What sport(s) do you play? - Selected Choice - Softball,plays_softball,sport
+Q4_9,What sport(s) do you play? - Selected Choice - Hockey,plays_hockey,sport
+Q4_10,What sport(s) do you play? - Selected Choice - Other,plays_other,sport
+Q4_10_TEXT,What sport(s) do you play? - Other - Text,plays_other,sport
+Q5,Is your sport high contact?,high_contact,background
+Q6,amoun,amount_played,sport
+Q7,How important is the sport to you?,importance_sport,sport
+Q8_1,Injury Questions - How many times have you been injured?,amount_injured_general,injury
+Q8_2,Injury Questions - How many times have you been injured playing a sport?,amount_injured_sport,injury
+Q8_3,Injury Questions - How many times has it affected you playing your sport?,amount_affected,injury
+Q9,Do you have a support group?,support_system,background
+Q10,When a teammate comes back from being injured I respect them more.,respect_teammate,backgound
+Q13,Are you confident that you can perform at your previous level of sport participation?,confidence_participation,injury
+Q14,Do you think you are likely to re-injure yourself by participating in your sport?,re-injure_by_participating,injury
+Q15,Are you nervous about playing your sport?,nervous_playing,injury
+Q16,Are you confident that your injury will not give way by playing your sport?,confidence_no_reinjury,injury
+Q17,Are you confident that you could play your sport without concern for your injury?,confidence_no_concern,injury
+Q18,Do you find it frustrating to have to consider your injury with respect to your sport?,frustration_injury,injury
+Q19,Are you fearful of re-injuring your injury under pressure?,fearful_reinjury_in_pressure,injury
+Q20,Are you confident about your injury holding up under pressure?,confident_injury_holding_up_pressure,injury
+Q21,Are you afraid of accidentally injuring your injury by playing your sport?,afraid_reinjury_by_playing,injury
+Q22,Do thoughts of having to go through surgery and rehabilitation again prevent you from playing your sport?,rehabilitation_again,injury
+Q23,Are you confident about your ability to perform well at your sport?,confidence_performace_well,injury
+Q24,Do you feel relaxed about playing your sport?,relaxed_playing,injury
+Q29,If you have never been injured indicate that here,never_injured,injury
+Q25_1,"Below is a list of statements dealing with your general feelings about yourself. Please indicate how strongly you agree or disagree with each statement. - On the whole, I am satisfied with myself.",satisfied_myself,self_esteem
+Q25_2,Below is a list of statements dealing with your general feelings about yourself. Please indicate how strongly you agree or disagree with each statement. - At times I think I am no good at all.,no_good,self_esteem
+Q25_3,Below is a list of statements dealing with your general feelings about yourself. Please indicate how strongly you agree or disagree with each statement. - I feel that I have a number of good qualities.,good_qualties,self_esteem
+Q25_4,Below is a list of statements dealing with your general feelings about yourself. Please indicate how strongly you agree or disagree with each statement. - I am able to do things as well as most other people.,able_to_do_as_well_as_others,self_esteem
+Q25_5,Below is a list of statements dealing with your general feelings about yourself. Please indicate how strongly you agree or disagree with each statement. - I feel I do not have much to be proud of.,not_much_proud_of,self_esteem
+Q25_6,Below is a list of statements dealing with your general feelings about yourself. Please indicate how strongly you agree or disagree with each statement. - I certainly feel useless at times.,feel_useless,self_esteem
+Q25_7,"Below is a list of statements dealing with your general feelings about yourself. Please indicate how strongly you agree or disagree with each statement. - I feel that I'm a person of worth, at least on an equal plane with others.",feel_worthy_equal,self_esteem
+Q25_8,Below is a list of statements dealing with your general feelings about yourself. Please indicate how strongly you agree or disagree with each statement. - I wish I could have more respect for myself.,more_respect_for_myself,self_esteem
+Q25_9,"Below is a list of statements dealing with your general feelings about yourself. Please indicate how strongly you agree or disagree with each statement. - All in all, I am inclined to feel that I am a failure.",feel_failure,self_esteem
+Q25_10,Below is a list of statements dealing with your general feelings about yourself. Please indicate how strongly you agree or disagree with each statement. - I take positive attitude toward myself.,postive_attitude,self_esteem
